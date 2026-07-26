@@ -5,6 +5,7 @@ Prepared By: Ibeh Doris Chinelo
 Date: 26/July/2026
 
 Project Overview
+
 An interactive Power BI dashboard analyzing 4 years of Superstore retail sales data from 2014-2017.
 The goal is to help leadership track KPIs, identify growth drivers, and make data-driven decisions across Region, Category, and State. Da
 
